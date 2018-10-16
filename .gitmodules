@@ -1,0 +1,3 @@
+[submodule "MyLibraryProject"]
+	path = MyLibraryProject
+	url = git@github.com:rahulchaurasia3592/MyLibraryProject.git
